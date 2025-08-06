@@ -1,0 +1,16 @@
+{
+  "name": "full-stack-project",
+  "version": "1.0.0",
+  "description": "a backend proejct using node and react",
+  "keywords": [
+    "javascript",
+    "expressjs.nodejs"
+  ],
+  "license": "ISC",
+  "author": "bhavna",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
